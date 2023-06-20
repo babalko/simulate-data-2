@@ -1,5 +1,5 @@
 # Repository for GitHub + RStudio lesson
 
 This is a test repo for trying out RStudio with GitHub.
-test
-test
+
+## 2023-06-20
